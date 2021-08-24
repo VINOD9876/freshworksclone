@@ -1,17 +1,27 @@
 import React from 'react';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import Homepage from './components/fcomp';
+import Belowhome from './components/scomp';
+import Belowsecond from './components/tcomp';
+import Belowthird from './components/frcomp';
+import Belowfourth from './components/fvecomp';
+import Belowfive from './components/sixcomp';
+import Belowsix from './components/sevencomp';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <Homepage/>
+    <Belowhome/>
+    <Belowsecond/>
+    <Belowthird/>
+    <Belowfourth/>
+    <Belowfive/>
+    <Belowsix/>
   </React.StrictMode>,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
