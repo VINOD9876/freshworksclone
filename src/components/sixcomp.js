@@ -16,7 +16,7 @@ export default function Belowfive(){
                 </div>
                 <div className="l-col-widget col-sm-6 col-md-3">
                   <img alt="vinod" className="icon-text-image icon-text-image-medium" src="https://website-assets-fw.freshworks.com/attachments/cksentdbp02unsng03c8bl6ys-untitled-design-2021-08-16t184407-551.full.png" />
-                  <div className="  ">
+                  <div>
                     <h4>Diversity</h4>
                       <p>Full-spectrum diversity, equity, and inclusion are key priorities for us.</p>
                   </div>

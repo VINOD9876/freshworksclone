@@ -12,7 +12,7 @@ export default function Belowhome(){
              <div className="row">
                 <div className="col-md-6 divider-right mb-md">
                   <div className="migrate-wrapper align-center migrate-wrapper-no-hover two-column-home">
-                    <div className="lazy-image-wrapper   ">
+                    <div  >
                       <img alt="vinod"className="lazy-image w-px-200" src="https://website-assets-fw.freshworks.com/attachments/ckseg6ken0ugrpkg0ba4l86we-ill-delight-customers.one-half.jpg"/>
                     </div>
                     <h2 className="h2-48">Delight your customers</h2>
@@ -23,7 +23,7 @@ export default function Belowhome(){
                 </div>
                 <div className="col-md-6 mb-md">
                   <div className="migrate-wrapper align-center migrate-wrapper-no-hover two-column-home">
-                      <div className="lazy-image-wrapper   " >
+                      <div   >
                           <img alt="vinod" className="lazy-image w-px-200" src="https://website-assets-fw.freshworks.com/attachments/cksegclxu23k2klfze5r4817y-ill-delight-employees.one-half.jpg"/>   
                       </div>
                       <h2 className="h2-48">Delight your employees</h2>

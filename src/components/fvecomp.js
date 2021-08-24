@@ -6,13 +6,13 @@ export default function Belowfourth(){
      <div className="l-page container align-center">
     
       
-<div id="40742793957425" data-interval="false" className="carousel testimonial-home slide carousel-full-width carousel-fade" data-ride="carousel">
+<div id="slides" data-interval="false" className="carousel testimonial-home slide carousel-full-width carousel-fade" data-ride="carousel">
   <div className="carousel-inner" role="listbox">
       <div className="carousel-item item active">
         <div className="row testimonial-card all-center">
           <div className="col-md-12 testimonial-content">
             <div className="testimonial-logo align-center">
-              <div className="lazy-image-wrapper   " >
+              <div>
                 <img alt="vinod" className="lazy-image"src="https://website-assets-fw.freshworks.com/attachments/cksep6tim00um4cg0hz2sy8fv-waterstons.one-half.png"/> 
               </div>
             </div>
@@ -27,7 +27,7 @@ export default function Belowfourth(){
         <div className="row testimonial-card all-center">
           <div className="col-md-12 testimonial-content">
             <div className="testimonial-logo align-center">
-              <div className="lazy-image-wrapper   " >
+              <div>
                 <img alt="vinod"className="lazy-image "src="https://website-assets-fw.freshworks.com/attachments/cksep7mph00ne2dfzr3115iaq-phone-pe-1.one-half.png"/>
               </div>
             </div>
@@ -42,8 +42,8 @@ export default function Belowfourth(){
         <div className="row testimonial-card all-center">
           <div className="col-md-12 testimonial-content">
             <div className="testimonial-logo align-center">
-              <div className="lazy-image-wrapper   " >
-                <img alt="vinod"className="lazy-image "src="https://website-assets-fw.freshworks.com/attachments/cksep8eis00ne4tg0nvamx4pf-payvision-1.one-half.png" />
+              <div  >
+                <img alt="vinod"className="lazy-image "src="	https://website-assets-fw.freshworks.com/attachmen…cksep6tim00um4cg0hz2sy8fv-waterstons.one-half.png" />
               </div>
             </div>
             <p className="testimonial-quote">“Because we&#39;re managing and handling tickets faster, satisfaction skyrocketed. 98% of the users say they are &#39;extremely satisfied&#39; after handling a ticket, and give us a smiley face.”</p>
@@ -57,9 +57,9 @@ export default function Belowfourth(){
     <div className="carousel-controls-wrapper mt-md">
       <div className="carousel-indicators-wrapper">
         <ol className="carousel-indicators">
-            <li data-target="#40742793957425" data-slide-to="0" className="active"></li>
-            <li data-target="#40742793957425" data-slide-to="1" className=""></li>
-            <li data-target="#40742793957425" data-slide-to="2" className=""></li>
+            <li data-target="#slides" data-slide-to="0" className="active"></li>
+            <li data-target="#slides" data-slide-to="1" className=""></li>
+            <li data-target="#slides" data-slide-to="2" className=""></li>
         </ol>
       </div>
     </div>
