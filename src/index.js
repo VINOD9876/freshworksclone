@@ -1,22 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Homepage from './components/fcomp';
-import Belowhome from './components/scomp';
-import Belowsecond from './components/tcomp';
-import Belowthird from './components/frcomp';
-import Belowfourth from './components/fvecomp';
-import Belowfive from './components/sixcomp';
-import Belowsix from './components/sevencomp';
+import Homepage from './components/firstcomponent';
+import Belowhome from './components/secondcomponent';
+import Belowsecond from './components/thirdcomponent';
+import Belowthird from './components/fourthcomponent';
+import Belowfive from './components/sixcomponent';
+import Belowsix from './components/seventhcomponent';
+import Slider from './components/fifthcomponent';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
     <Homepage/>
     <Belowhome/>
     <Belowsecond/>
     <Belowthird/>
-    <Belowfourth/>
+    <Slider/>
     <Belowfive/>
     <Belowsix/>
   </React.StrictMode>,
